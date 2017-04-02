@@ -1,0 +1,23 @@
+{
+  "name": "bingegame",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehliang/bingeDrinkingGame.git"
+  },
+  "author": "SYDE 261 Group 1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehliang/bingeDrinkingGame/issues"
+  },
+  "homepage": "https://github.com/ehliang/bingeDrinkingGame#readme"
+}
